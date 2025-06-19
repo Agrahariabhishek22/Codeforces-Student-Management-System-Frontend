@@ -1,0 +1,26 @@
+.color-empty {
+  fill: #e0e0e0;
+}
+.color-scale-1 {
+  fill: #a0d8a0;
+}
+.color-scale-2 {
+  fill: #5cbf5c;
+}
+.color-scale-3 {
+  fill: #399c39;
+}
+.color-scale-4 {
+  fill: #267026;
+}
+
+.react-calendar-heatmap .day {
+  shape-rendering: crispEdges;
+  rx: 2;
+  ry: 2;
+}
+
+.react-calendar-heatmap text {
+  font-size: 9px;
+  fill: #777;
+}
